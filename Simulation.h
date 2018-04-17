@@ -1,8 +1,9 @@
 /*
 * Simulation Class
 *
-* This class creates the Grid class representing the intersection, stores the
-* vehicles in a vector, and loops through a set number of cycles passed .in
+* This class runs the simulation. It stores the grid representing the 
+* intersection, the vector of vehicles, and adds vehicles and updates their
+* positions.
 *
 * Hunter Evans, Melissa Gu, Jimmy Odell
 * CS240 Final Project, Spring 2018
